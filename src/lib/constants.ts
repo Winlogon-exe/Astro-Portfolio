@@ -9,7 +9,7 @@ export const loaderAnimation = [
 export const LINKS = {
   github: 'https://github.com/Winlogon-exe',
   linkedin: 'https://www.linkedin.com/in/winlogon',
-  mail: 'roman.sarkisyan15@gmail.com',
+  mail: 'mailto:roman.sarkisyan15@gmail.com',
   instagram: 'https://www.instagram.com/win_log_on/',
   discord: 'https://discordapp.com/users/443444223359057921',
 }
@@ -49,13 +49,13 @@ export const SEARCH: Page = {
 export const STUDIES = [
   {
     title: 'Computer Science',
-    institution: 'СКФУ',
+    institution: 'North-Caucasus Federal University',
     link: 'https://ncfu.ru/',
     date: '2024 - 2028',
   },
   {
     title: 'Computer Science',
-    institution: 'Колледж связи',
+    institution: 'Stavropol College of Communication',
     link: 'http://stvcc.ru/',
     date: '2021 - 2024',
   },
