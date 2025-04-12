@@ -57,3 +57,6 @@ ehthumbs.db
 *.local
 
 .nvmrc
+
+# Local Netlify folder
+.netlify
